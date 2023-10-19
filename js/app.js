@@ -1,6 +1,7 @@
 // Implementar solución aquí
 
-document.querySelector("body").style.backgroundColor = "#ff6347";
+document.querySelector("body").style.backgroundColor = " #ff6347";
+document.getElementById("hexadecimal").innerHTML = " #ff6347";
 
 function generarNuevoColor(){
 	var simbolos, color;
